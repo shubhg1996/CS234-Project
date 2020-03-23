@@ -2,6 +2,10 @@
 
 Code repository for CS234 course project (Winter 2020)
 
+## Requirements
+
+tensorflow, gym, numpy, scipy, matplotlib
+
 ## Instructions
 
 - Install the gym environment `pip install -e .`
