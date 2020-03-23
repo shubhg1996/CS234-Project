@@ -10,5 +10,5 @@ Code repository for CS234 course project (Winter 2020)
 - For Actor-Critic, run `python gym_bf/actor_critic.py`
 
 ## Authors
-Tara Mina (tymina@stanford.edu);
+Tara Mina (tymina@stanford.edu),
 Shubh Gupta (shubhgup@stanford.edu)
