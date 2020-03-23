@@ -1,4 +1,4 @@
-# Learning Low-Correlation Binary Spreading Codes Familiesfor Asynchronous CDMA Applications
+# Learning Low-Correlation Binary Spreading Codes Families for Asynchronous CDMA Applications
 
 Code repository for CS234 course project (Winter 2020)
 
