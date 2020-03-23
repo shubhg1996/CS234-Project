@@ -1,0 +1,2 @@
+model_checkpoint_path: "pg_bitflip5_2_12.pkl"
+all_model_checkpoint_paths: "pg_bitflip5_2_12.pkl"
