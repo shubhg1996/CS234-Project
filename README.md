@@ -4,7 +4,7 @@ Code repository for CS234 course project (Winter 2020)
 
 ## Requirements
 
-tensorflow, gym, numpy, scipy, matplotlib
+tensorflow==1.14.0, gym, numpy, scipy, matplotlib
 
 ## Instructions
 
